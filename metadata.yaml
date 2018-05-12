@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3589
     wikipedia: http://en.wikipedia.org/wiki/Henry_Clay_Trumbull
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46212#The-Covenant-of-SaltAs-Based-on-the-Significance-and-Symbolism-of-Salt-in-Primitive-Thought
 gutenberg_issued: '2014-07-07'
 gutenberg_type: Text
 identifiers:
